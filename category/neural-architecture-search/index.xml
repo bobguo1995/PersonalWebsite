@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural Architecture Search | Jue Guo (郭爵)</title>
+    <link>https://csragtoriches.com/category/neural-architecture-search/</link>
+      <atom:link href="https://csragtoriches.com/category/neural-architecture-search/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neural Architecture Search</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://csragtoriches.com/media/icon_hubb1785117f1ecbe3ecfaf4c57e5ceb3b_6385_512x512_fill_lanczos_center_3.png</url>
+      <title>Neural Architecture Search</title>
+      <link>https://csragtoriches.com/category/neural-architecture-search/</link>
+    </image>
+    
+    <item>
+      <title>DARTS:Differentiable Architecture Search</title>
+      <link>https://csragtoriches.com/post/darts/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://csragtoriches.com/post/darts/</guid>
+      <description>&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
