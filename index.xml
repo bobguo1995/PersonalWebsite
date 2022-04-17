@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CS:Rag to Riches</title>
+    <title>AI:Rag to Riches</title>
     <link>https://csragtoriches.com/</link>
       <atom:link href="https://csragtoriches.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>CS:Rag to Riches</description>
+    <description>AI:Rag to Riches</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://csragtoriches.com/media/icon_hubb1785117f1ecbe3ecfaf4c57e5ceb3b_6385_512x512_fill_lanczos_center_3.png</url>
-      <title>CS:Rag to Riches</title>
+      <title>AI:Rag to Riches</title>
       <link>https://csragtoriches.com/</link>
     </image>
     
