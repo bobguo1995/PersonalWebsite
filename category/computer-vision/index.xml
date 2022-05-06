@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | CS:Rag to Riches</title>
-    <link>https://csragtoriches.com/post/</link>
-      <atom:link href="https://csragtoriches.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <title>Computer Vision | CS:Rag to Riches</title>
+    <link>https://csragtoriches.com/category/computer-vision/</link>
+      <atom:link href="https://csragtoriches.com/category/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://csragtoriches.com/media/icon_hubb1785117f1ecbe3ecfaf4c57e5ceb3b_6385_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://csragtoriches.com/post/</link>
+      <title>Computer Vision</title>
+      <link>https://csragtoriches.com/category/computer-vision/</link>
     </image>
-    
-    <item>
-      <title>DARTS:Differentiable Architecture Search</title>
-      <link>https://csragtoriches.com/post/darts/</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://csragtoriches.com/post/darts/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;hi people&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
     
     <item>
       <title>Kalman Filter</title>
